@@ -1,0 +1,15 @@
+.imgDiv {
+    background-color:rgb(234, 233, 233);
+    margin-bottom: 1.5rem;
+    border-radius: 0.5rem;
+}
+.imgDiv_dark {
+    background-color:rgb(29, 29, 29);
+    margin-bottom: 1.5rem;
+    border-radius: 0.5rem;
+}
+.img {
+    height: 80vh;
+    width: 70vh;
+    object-fit: contain;
+}
